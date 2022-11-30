@@ -1,1 +1,1 @@
-My second readme
+ #!/bin/bash this is called shibang  used to specify the interpreter with which the given script will be run by default. and write this command change to excutable file chmod u+x file name using this you try to work task 0 up to task 18 don't forget that to add the given question task in task 19 use 0 string FILE filecontent and !:mime file and excute using file -C -m file don't forget to push to git 
